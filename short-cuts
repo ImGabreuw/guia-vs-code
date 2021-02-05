@@ -5,3 +5,4 @@ CONTROL + P -> @ + "nome" = Busca por qualquer classe, atributo, função no pro
 CONTROL + K + Z = Zen Mode
 CONTROL + SHIFT + K = Deletar linha
 CONTROL + K -> CONTROL + C = Comentar linha
+CONTROL + K -> CONTROL + ; = Descomentar linha
