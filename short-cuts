@@ -4,3 +4,4 @@ CONTROL + F + SELEÇÃO DO TEXTO = Busca de todas as ocorrências do "texto sele
 CONTROL + P -> @ + "nome" = Busca por qualquer classe, atributo, função no projeto atual
 CONTROL + K + Z = Zen Mode
 CONTROL + SHIFT + K = Deletar linha
+CONTROL + K -> CONTROL + C = Comentar linha
