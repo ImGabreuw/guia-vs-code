@@ -9,3 +9,4 @@ CONTROL + K -> CONTROL + ; = Descomentar linha
 SELEÇÃO DO TRECHO DE CÓDIGO + TAB = Indentação das linhas selecionadas
 SELEÇÃO DO TRECHO DE CÓDIGO + SHIFT + TAB = Outra forma de indentação das linhas selecionadas
 CONTROL + A -> CONTROL + K -> CONTROL + 1 = Fechar todos métodos / classe em primeiro nível 
+CONTROL + A -> CONTROL + K -> CONTROL + 2 = Fechar todos métodos / classe em segundo nível 
