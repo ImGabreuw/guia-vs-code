@@ -7,3 +7,4 @@ CONTROL + SHIFT + K = Deletar linha
 CONTROL + K -> CONTROL + C = Comentar linha
 CONTROL + K -> CONTROL + ; = Descomentar linha
 SELEÇÃO DO TRECHO DE CÓDIGO + TAB = Indentação das linhas selecionadas
+SELEÇÃO DO TRECHO DE CÓDIGO + SHIFT + TAB = Outra forma de indentação das linhas selecionadas
