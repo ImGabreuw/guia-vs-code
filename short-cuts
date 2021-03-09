@@ -11,3 +11,4 @@ SELEÇÃO DO TRECHO DE CÓDIGO + SHIFT + TAB = Outra forma de indentação das l
 CONTROL + A -> CONTROL + K -> CONTROL + 1 = Fechar todos métodos / classe em primeiro nível 
 CONTROL + A -> CONTROL + K -> CONTROL + 2 = Fechar todos métodos / classe em segundo nível 
 CONTROL + b = Fechar o explorer
+ALT + Z = Quebra de linha automática
