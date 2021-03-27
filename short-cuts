@@ -12,3 +12,4 @@ CONTROL + A -> CONTROL + K -> CONTROL + 1 = Fechar todos métodos / classe em pr
 CONTROL + A -> CONTROL + K -> CONTROL + 2 = Fechar todos métodos / classe em segundo nível 
 CONTROL + b = Fechar o explorer
 ALT + Z = Quebra de linha automática
+CONTROL + J = Abrir terminal do VS Code
